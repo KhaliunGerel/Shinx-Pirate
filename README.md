@@ -2,6 +2,10 @@
 
 <video src="demo.mov" controls style="max-width:100%; height:auto; display:block; margin:0 auto 1rem;">Your browser does not support the video tag. Download the demo: <a href="demo.mov">demo.mov</a></video>
 
+https://github.com/user-attachments/assets/c734c5bb-7942-4fc1-8ced-90c46236c841
+
+
+
 **Project**: Pirate (Web + Backend)
 
 - **Repository structure**: frontend in `pirate_web/`, backend in `pirate_backend/`.

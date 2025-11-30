@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+html {
+  font-family: "Baloo 2", system-ui, sans-serif !important;
+}
+
+:root {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #f0b100;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  place-items: center;
+}
+
+main {
+  max-width: 28rem;
+  margin-inline: auto;
+}
